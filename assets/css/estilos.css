@@ -37,3 +37,25 @@ body {
   }
 
 }
+
+#Formacion {
+  background-color: #f7f9fb;
+  border-top: 3px solid #0dcaf0;
+  border-bottom: 3px solid #0dcaf0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#Formacion h2 {
+  color: #0a3d62;
+}
+
+#Formacion .list-group-item {
+  font-size: 1.1rem;
+  padding: 18px;
+}
+
+#Formacion .badge {
+  font-size: 0.9rem;
+  padding: 10px 15px;
+}
